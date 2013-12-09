@@ -1,0 +1,3 @@
+tu som nieco napisal
+:wq
+
